@@ -1,8 +1,6 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=40&pause=100&width=550&height=100&lines=You don't need religion to have morals.If you can't determine right from wrong then you lack empathy, not religion." alt="Facts" /></p>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 <!--
 **Mr-githubUser/Mr-githubUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
