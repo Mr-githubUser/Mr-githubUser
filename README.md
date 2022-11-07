@@ -1,4 +1,4 @@
-###<h3> You don't need religion to have morals.If you can't determine right from wrong then you lack empathy, not religion.</h3>
+<h3> You don't need religion to have morals.If you can't determine right from wrong then you lack empathy, not religion.</h3>
 
 <!--
 **Mr-githubUser/Mr-githubUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
